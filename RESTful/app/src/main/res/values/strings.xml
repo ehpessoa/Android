@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RESTful</string>
+
+    <string name="textview_userlist_name">User Name</string>
+    <string name="textview_userlist_email">User Email</string>
+
+    <string name="textview_detailActivity_username">User Name:</string>
+    <string name="textview_detailActivity_useremail">User Email:</string>
+    <string name="textview_detailActivity_userphone">User Phone:</string>
+    <string name="textview_detailActivity_usercity">User City:</string>
+    <string name="textview_detailActivity_userzipcode">User Zip Code:</string>
+
+</resources>
